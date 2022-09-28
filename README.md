@@ -1,2 +1,2 @@
 # fake-installer
-fake installer PyQT5
+Fake Installer example of installer GUI implementation using pyQT5
